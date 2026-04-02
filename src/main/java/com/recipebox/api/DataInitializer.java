@@ -23,7 +23,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Bœuf Bourguignon", "Beef Bourguignon",
                 "Plat principal", "Main course", "diner",
-                "https://source.unsplash.com/400x300/?beef,bourguignon,stew",
+                "https://loremflickr.com/400/300/beef,stew",
                 "3h", "Moyen", 4,
                 "Couper le bœuf en gros cubes. Faire revenir les lardons dans une cocotte avec l'huile et le beurre. Ajouter les oignons et l'ail. Faire dorer la viande de tous côtés. Saupoudrer de farine. Mouiller avec le vin rouge. Ajouter le bouquet garni et les carottes. Saler, poivrer. Couvrir et laisser mijoter 2h30 à feu doux.\nAjouter les champignons 30 minutes avant la fin. Servir chaud avec des pommes de terre vapeur.",
                 "Cut beef into large cubes. Brown lardons in a casserole with oil and butter. Add onions and garlic. Brown meat on all sides. Sprinkle with flour. Add red wine. Add bouquet garni and carrots. Season. Cover and simmer for 2h30 on low heat.\nAdd mushrooms 30 minutes before the end. Serve hot with steamed potatoes.",
@@ -34,7 +34,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Quiche Lorraine", "Quiche Lorraine",
                 "Entrée", "Starter", "dejeuner",
-                "https://source.unsplash.com/400x300/?quiche,lorraine",
+                "https://loremflickr.com/400/300/quiche",
                 "45min", "Facile", 6,
                 "Préchauffer le four à 180°C. Foncer un moule avec la pâte brisée. Piquer le fond. Faire revenir les lardons à sec. Les répartir sur la pâte. Battre les œufs avec la crème, saler, poivrer, ajouter la muscade. Verser sur les lardons. Parsemer de gruyère. Enfourner 35 minutes.",
                 "Preheat oven to 180°C. Line a tin with shortcrust pastry. Prick the base. Dry fry lardons. Spread over pastry. Beat eggs with cream, season, add nutmeg. Pour over lardons. Sprinkle with gruyere. Bake 35 minutes.",
@@ -45,7 +45,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Ratatouille", "Ratatouille",
                 "Plat principal", "Main course", "diner",
-                "https://source.unsplash.com/400x300/?ratatouille,vegetables,french",
+                "https://loremflickr.com/400/300/ratatouille,vegetables",
                 "1h", "Facile", 4,
                 "Couper tous les légumes en dés. Faire revenir l'oignon et l'ail dans l'huile d'olive. Ajouter les poivrons, puis les aubergines et les courgettes. Incorporer les tomates. Assaisonner avec le thym et le basilic. Couvrir et laisser mijoter 40 minutes à feu doux.",
                 "Cut all vegetables into cubes. Sauté onion and garlic in olive oil. Add peppers, then eggplant and zucchini. Add tomatoes. Season with thyme and basil. Cover and simmer 40 minutes on low heat.",
@@ -56,7 +56,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Gratin Dauphinois", "Potato Gratin",
                 "Accompagnement", "Side dish", "diner",
-                "https://source.unsplash.com/400x300/?potato,gratin,cheese",
+                "https://loremflickr.com/400/300/potato,gratin",
                 "1h30", "Facile", 4,
                 "Préchauffer le four à 180°C. Éplucher et trancher finement les pommes de terre. Frotter le plat avec l'ail. Beurrer le plat. Disposer les pommes de terre en couches. Mélanger la crème avec le lait, saler, poivrer, muscade. Verser sur les pommes de terre. Enfourner 1h15 jusqu'à ce que le dessus soit doré.",
                 "Preheat oven to 180°C. Peel and thinly slice potatoes. Rub dish with garlic. Butter the dish. Layer potatoes. Mix cream with milk, season with salt, pepper and nutmeg. Pour over potatoes. Bake 1h15 until golden.",
@@ -67,7 +67,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Crêpes Bretonnes", "Breton Crepes",
                 "Dessert", "Dessert", "dessert",
-                "https://source.unsplash.com/400x300/?crepes,french,pancake",
+                "https://loremflickr.com/400/300/crepes,pancake",
                 "30min", "Facile", 4,
                 "Mélanger la farine et le sel. Creuser un puits et ajouter les œufs. Incorporer le lait progressivement en fouettant. Ajouter le beurre fondu. Laisser reposer 30 minutes. Cuire chaque crêpe dans une poêle beurrée 1 minute de chaque côté.",
                 "Mix flour and salt. Make a well and add eggs. Gradually incorporate milk while whisking. Add melted butter. Rest 30 minutes. Cook each crepe in a buttered pan 1 minute each side.",
@@ -78,7 +78,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Soupe à l'Oignon", "French Onion Soup",
                 "Entrée", "Starter", "dejeuner",
-                "https://source.unsplash.com/400x300/?onion,soup,french",
+                "https://loremflickr.com/400/300/onion,soup",
                 "1h", "Facile", 4,
                 "Émincer finement les oignons. Les faire caraméliser dans le beurre à feu doux pendant 30 minutes en remuant. Déglacer avec le vin blanc. Ajouter le bouillon de bœuf. Laisser mijoter 20 minutes. Servir dans des bols avec des tranches de pain grillé et du gruyère. Passer sous le gril 5 minutes.",
                 "Finely slice onions. Caramelize in butter on low heat for 30 minutes, stirring. Deglaze with white wine. Add beef broth. Simmer 20 minutes. Serve in bowls with toasted bread slices and gruyere. Grill for 5 minutes.",
@@ -89,7 +89,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Tarte Tatin", "Tarte Tatin",
                 "Dessert", "Dessert", "dessert",
-                "https://source.unsplash.com/400x300/?tarte,tatin,apple,caramel",
+                "https://loremflickr.com/400/300/apple,tart,caramel",
                 "1h", "Moyen", 6,
                 "Préchauffer le four à 200°C. Faire fondre le beurre et le sucre dans un moule allant au four jusqu'à obtenir un caramel doré. Éplucher et couper les pommes en quartiers. Les disposer sur le caramel. Couvrir avec la pâte feuilletée en rentrant les bords. Enfourner 30 minutes. Retourner la tarte à la sortie du four.",
                 "Preheat oven to 200°C. Melt butter and sugar in an ovenproof dish until golden caramel. Peel and quarter apples. Arrange over caramel. Cover with puff pastry tucking in edges. Bake 30 minutes. Flip tart immediately out of oven.",
@@ -100,7 +100,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Poulet Rôti", "Roast Chicken",
                 "Plat principal", "Main course", "diner",
-                "https://source.unsplash.com/400x300/?roast,chicken,herbs",
+                "https://loremflickr.com/400/300/roast,chicken",
                 "1h30", "Facile", 4,
                 "Préchauffer le four à 200°C. Frotter le poulet avec le beurre, le sel, le poivre, le thym et le romarin. Glisser l'ail et le citron à l'intérieur. Enfourner 1h15 en arrosant régulièrement. Laisser reposer 10 minutes avant de découper.",
                 "Preheat oven to 200°C. Rub chicken with butter, salt, pepper, thyme and rosemary. Place garlic and lemon inside. Roast 1h15 basting regularly. Rest 10 minutes before carving.",
@@ -111,7 +111,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Moules Marinières", "Mussels Marinière",
                 "Plat principal", "Main course", "diner",
-                "https://source.unsplash.com/400x300/?mussels,seafood,marine",
+                "https://loremflickr.com/400/300/mussels,seafood",
                 "30min", "Facile", 4,
                 "Nettoyer et gratter les moules. Faire suer l'échalote et l'ail dans le beurre. Ajouter le vin blanc et le bouquet garni. Verser les moules. Couvrir et cuire à feu vif 5 minutes en secouant. Parsemer de persil haché. Servir immédiatement.",
                 "Clean and scrape mussels. Sweat shallot and garlic in butter. Add white wine and bouquet garni. Add mussels. Cover and cook on high heat 5 minutes shaking pan. Sprinkle with chopped parsley. Serve immediately.",
@@ -122,7 +122,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Crème Brûlée", "Crème Brûlée",
                 "Dessert", "Dessert", "dessert",
-                "https://source.unsplash.com/400x300/?creme,brulee,dessert",
+                "https://loremflickr.com/400/300/creme,brulee,dessert",
                 "1h", "Moyen", 4,
                 "Préchauffer le four à 150°C. Fouetter les jaunes d'œufs avec le sucre jusqu'à blanchiment. Chauffer la crème avec la vanille. Verser sur les jaunes en mélangeant. Répartir dans des ramequins. Cuire au bain-marie 45 minutes. Réfrigérer 2 heures. Saupoudrer de sucre et caraméliser au chalumeau.",
                 "Preheat oven to 150°C. Whisk egg yolks with sugar until pale. Heat cream with vanilla. Pour over yolks while mixing. Pour into ramekins. Cook in water bath 45 minutes. Refrigerate 2 hours. Sprinkle with sugar and caramelize with torch.",
@@ -133,7 +133,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Blanquette de Veau", "Veal Blanquette",
                 "Plat principal", "Main course", "diner",
-                "https://source.unsplash.com/400x300/?veal,stew,cream",
+                "https://loremflickr.com/400/300/veal,stew",
                 "2h", "Moyen", 4,
                 "Couper le veau en morceaux. Faire blanchir la viande dans l'eau bouillante 5 minutes. Rincer. Remettre dans une cocotte avec oignons, carottes, bouquet garni. Couvrir d'eau et cuire 1h30. Préparer un roux avec beurre et farine. Ajouter le bouillon filtré. Lier avec jaune d'œuf et crème. Ajouter les champignons. Servir avec du riz.",
                 "Cut veal into pieces. Blanch meat in boiling water 5 minutes. Rinse. Return to pot with onions, carrots, bouquet garni. Cover with water and cook 1h30. Make a roux with butter and flour. Add filtered broth. Bind with egg yolk and cream. Add mushrooms. Serve with rice.",
@@ -144,7 +144,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Salade Niçoise", "Niçoise Salad",
                 "Entrée", "Starter", "dejeuner",
-                "https://source.unsplash.com/400x300/?nicoise,salad,tuna",
+                "https://loremflickr.com/400/300/salad,nicoise,tuna",
                 "20min", "Facile", 4,
                 "Cuire les haricots verts à la vapeur. Cuire les œufs durs. Disposer la salade dans un plat. Ajouter le thon émietté, les tomates, les olives, les anchois, les œufs coupés. Assaisonner avec l'huile d'olive, le vinaigre, le sel et le poivre.",
                 "Steam green beans. Hard boil eggs. Arrange lettuce in a dish. Add flaked tuna, tomatoes, olives, anchovies, sliced eggs. Dress with olive oil, vinegar, salt and pepper.",
@@ -155,7 +155,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Cassoulet", "Cassoulet",
                 "Plat principal", "Main course", "diner",
-                "https://source.unsplash.com/400x300/?cassoulet,beans,sausage",
+                "https://loremflickr.com/400/300/cassoulet,beans",
                 "3h", "Difficile", 6,
                 "Faire tremper les haricots la veille. Les cuire 1 heure. Faire revenir les saucisses et le confit de canard. Dans une cocotte, alterner couches de haricots et viandes. Ajouter le bouillon. Cuire au four à 160°C pendant 2 heures en cassant la croûte régulièrement.",
                 "Soak beans overnight. Cook 1 hour. Brown sausages and duck confit. In a casserole, alternate layers of beans and meats. Add broth. Cook in oven at 160°C for 2 hours breaking the crust regularly.",
@@ -166,7 +166,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Pot-au-Feu", "Pot-au-Feu",
                 "Plat principal", "Main course", "diner",
-                "https://source.unsplash.com/400x300/?beef,vegetable,broth,stew",
+                "https://loremflickr.com/400/300/beef,broth,vegetables",
                 "3h30", "Facile", 6,
                 "Mettre la viande dans une grande marmite d'eau froide. Porter à ébullition et écumer. Ajouter les légumes, le bouquet garni, le sel et le poivre. Laisser cuire à petit feu pendant 3 heures. Servir le bouillon en entrée puis la viande et les légumes avec de la moutarde et du gros sel.",
                 "Place meat in a large pot of cold water. Bring to boil and skim. Add vegetables, bouquet garni, salt and pepper. Simmer for 3 hours. Serve broth as starter then meat and vegetables with mustard and coarse salt.",
@@ -177,7 +177,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Mousse au Chocolat", "Chocolate Mousse",
                 "Dessert", "Dessert", "dessert",
-                "https://source.unsplash.com/400x300/?chocolate,mousse,dessert",
+                "https://loremflickr.com/400/300/chocolate,mousse",
                 "20min", "Facile", 6,
                 "Faire fondre le chocolat au bain-marie. Hors du feu, ajouter les jaunes d'œufs un par un. Monter les blancs en neige avec une pincée de sel. Incorporer délicatement les blancs au chocolat en plusieurs fois. Réfrigérer au moins 2 heures avant de servir.",
                 "Melt chocolate in water bath. Off heat, add egg yolks one by one. Whip egg whites with a pinch of salt to stiff peaks. Gently fold whites into chocolate in batches. Refrigerate at least 2 hours before serving.",
@@ -188,7 +188,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Coq au Vin", "Coq au Vin",
                 "Plat principal", "Main course", "diner",
-                "https://source.unsplash.com/400x300/?chicken,wine,stew,french",
+                "https://loremflickr.com/400/300/chicken,wine,stew",
                 "2h", "Moyen", 4,
                 "Faire mariner le poulet dans le vin rouge avec les herbes pendant 2 heures. Faire revenir les lardons et les champignons. Faire dorer les morceaux de poulet. Ajouter la marinade, les oignons et les lardons. Laisser mijoter 1h30. Rectifier l'assaisonnement.",
                 "Marinate chicken in red wine with herbs for 2 hours. Brown lardons and mushrooms. Brown chicken pieces. Add marinade, onions and lardons. Simmer 1h30. Adjust seasoning.",
@@ -199,7 +199,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Tarte aux Pommes", "Apple Tart",
                 "Dessert", "Dessert", "dessert",
-                "https://source.unsplash.com/400x300/?apple,tart,pastry",
+                "https://loremflickr.com/400/300/apple,tart",
                 "1h", "Facile", 8,
                 "Préchauffer le four à 180°C. Étaler la pâte dans un moule. Éplucher et trancher les pommes finement. Les disposer en rosace sur la pâte. Saupoudrer de sucre et de cannelle. Parsemer de noisettes de beurre. Enfourner 35 minutes. Badigeonner de gelée d'abricot à la sortie.",
                 "Preheat oven to 180°C. Roll pastry in tin. Peel and thinly slice apples. Arrange in a rosette pattern over pastry. Sprinkle with sugar and cinnamon. Dot with butter. Bake 35 minutes. Glaze with apricot jelly when out of oven.",
@@ -210,7 +210,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Pain Perdu", "French Toast",
                 "Petit-déjeuner", "Breakfast", "petit-dejeuner",
-                "https://source.unsplash.com/400x300/?french,toast,breakfast",
+                "https://loremflickr.com/400/300/french,toast",
                 "15min", "Facile", 4,
                 "Battre les œufs avec le lait, le sucre et la vanille. Tremper les tranches de pain dans le mélange. Faire dorer dans le beurre 2 minutes de chaque côté. Saupoudrer de sucre glace. Servir avec du sirop d'érable ou de la confiture.",
                 "Beat eggs with milk, sugar and vanilla. Dip bread slices in mixture. Brown in butter 2 minutes each side. Dust with powdered sugar. Serve with maple syrup or jam.",
@@ -221,7 +221,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Croissants", "Croissants",
                 "Petit-déjeuner", "Breakfast", "petit-dejeuner",
-                "https://source.unsplash.com/400x300/?croissant,french,bakery",
+                "https://loremflickr.com/400/300/croissant,bakery",
                 "3h", "Difficile", 8,
                 "Préparer la détrempe avec farine, sucre, sel, levure et lait. Laisser lever 1 heure. Incorporer le beurre par feuilletage en faisant 3 tours. Réfrigérer 30 minutes entre chaque tour. Découper en triangles et rouler. Laisser lever 1 heure. Badigeonner de dorure et cuire à 200°C pendant 15 minutes.",
                 "Make dough with flour, sugar, salt, yeast and milk. Rise 1 hour. Incorporate butter by laminating with 3 turns. Refrigerate 30 minutes between turns. Cut into triangles and roll. Rise 1 hour. Brush with egg wash and bake at 200°C for 15 minutes.",
@@ -232,7 +232,7 @@ public class DataInitializer implements CommandLineRunner {
 
             recipe("Clafoutis aux Cerises", "Cherry Clafoutis",
                 "Dessert", "Dessert", "dessert",
-                "https://source.unsplash.com/400x300/?clafoutis,cherry,baked",
+                "https://loremflickr.com/400/300/cherry,clafoutis,cake",
                 "1h", "Facile", 6,
                 "Préchauffer le four à 180°C. Beurrer un plat. Répartir les cerises. Mélanger les œufs, le sucre, la farine, le lait et la crème. Verser sur les cerises. Cuire 40 minutes. Saupoudrer de sucre glace avant de servir tiède.",
                 "Preheat oven to 180°C. Butter a dish. Spread cherries. Mix eggs, sugar, flour, milk and cream. Pour over cherries. Bake 40 minutes. Dust with powdered sugar before serving warm.",
@@ -240,7 +240,6 @@ public class DataInitializer implements CommandLineRunner {
                 en("Cherries", "Eggs", "Sugar", "Flour", "Milk", "Cream", "Butter", "Powdered sugar"),
                 m("500g", "3", "100g", "80g", "25cl", "10cl", "20g", "q.s."),
                 tags("vegetarien", "sans-porc"))
-
         ));
     }
 
