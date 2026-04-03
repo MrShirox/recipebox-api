@@ -31,22 +31,22 @@ public class Recipe {
     @Column(columnDefinition = "TEXT")
     private String instructionsEn;
 
-    @ElementCollection
+    @ElementCollection(fetch = FetchType.EAGER)
     @CollectionTable(name = "recipe_ingredients_fr", joinColumns = @JoinColumn(name = "recipe_id"))
     @Column(name = "ingredient")
     private List<String> ingredientsFr;
 
-    @ElementCollection
+    @ElementCollection(fetch = FetchType.EAGER)
     @CollectionTable(name = "recipe_ingredients_en", joinColumns = @JoinColumn(name = "recipe_id"))
     @Column(name = "ingredient")
     private List<String> ingredientsEn;
 
-    @ElementCollection
+    @ElementCollection(fetch = FetchType.EAGER)
     @CollectionTable(name = "recipe_measures", joinColumns = @JoinColumn(name = "recipe_id"))
     @Column(name = "measure")
     private List<String> measures;
 
-    @ElementCollection
+    @ElementCollection(fetch = FetchType.EAGER)
     @CollectionTable(name = "recipe_tags", joinColumns = @JoinColumn(name = "recipe_id"))
     @Column(name = "tag")
     private List<String> tags;
